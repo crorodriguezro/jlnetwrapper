@@ -22,7 +22,7 @@
     //saver.BaseDirectory = this.Context.Request.PhysicalApplicationPath + "FileSave\\";
     //JumploaderWrapper.UploadHandler.FileSaver = saver;
 
-		Datapro.DPFileSaver saver = new Datapro.DPFileSaver();
+		DP.DPFileSaver saver = new DP.DPFileSaver();
 		saver.BaseDirectory = this.Context.Request.PhysicalApplicationPath + "FileSave\\";
 		JumploaderWrapper.UploadHandler.FileSaver = saver;
 	}
