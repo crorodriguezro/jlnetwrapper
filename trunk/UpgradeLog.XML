@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="JumploaderWrapper">
+</Property><Property Name="Solution File" Value="C:\Users\bbrownlee\Desktop\JumploaderWrapper\JumploaderWrapper.sln">
+</Property><Property Name="Date" Value="Tuesday, September 01, 2009">
+</Property><Property Name="Time" Value="21:01:12 PM">
+</Property></Properties><Event ErrorLevel="0" Project="JumploaderWrapper" Source="JumploaderWrapper.csproj" Description="Project file successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\JumploaderWrapper.csproj">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="AppletControl.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\AppletControl.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="FileSavedEventArgs.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\FileSavedEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="IFileSaver.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\IFileSaver.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="JumploaderControl.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\JumploaderControl.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="ResourceHandler.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\ResourceHandler.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="Samples\DatabaseDataAccess.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\Samples\DatabaseDataAccess.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="Samples\DatabaseFileSaver.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\Samples\DatabaseFileSaver.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="Samples\FileSystemFileSaver.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\Samples\FileSystemFileSaver.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="UploadHandler.cs" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\UploadHandler.cs">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="example.web.config" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\example.web.config">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="Resources\SampleDB.sql" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\Resources\SampleDB.sql">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="Resources\jumploader_z.jar" Description="File successfully backed up as C:\Users\bbrownlee\Desktop\JumploaderWrapper\Backup\Resources\jumploader_z.jar">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="JumploaderWrapper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="JumploaderWrapper" Source="JumploaderWrapper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JumploaderWrapper" Source="JumploaderWrapper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
