@@ -1,0 +1,4 @@
+﻿<metadata width="300" height="250" title="Metadata" ok="Ok" cancel="Cancel">
+	<input type="text" name="fileName" label="Title" required="true" />
+	<input type="textarea" rows="4" name="tags" label="Tags" required="true" />
+</metadata>
