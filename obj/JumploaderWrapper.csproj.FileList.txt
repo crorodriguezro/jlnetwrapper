@@ -1,0 +1,6 @@
+bin\Debug\JumploaderWrapper.dll
+bin\Debug\JumploaderWrapper.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\JumploaderWrapper.dll
+obj\Debug\JumploaderWrapper.pdb
+obj\Debug\JumploaderWrapper.Resources.jumploader_z.jar

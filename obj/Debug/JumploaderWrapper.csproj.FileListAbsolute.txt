@@ -1,0 +1,5 @@
+C:\Users\bbrownlee\Desktop\JumploaderWrapper\bin\Debug\JumploaderWrapper.dll
+C:\Users\bbrownlee\Desktop\JumploaderWrapper\bin\Debug\JumploaderWrapper.pdb
+C:\Users\bbrownlee\Desktop\JumploaderWrapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bbrownlee\Desktop\JumploaderWrapper\obj\Debug\JumploaderWrapper.dll
+C:\Users\bbrownlee\Desktop\JumploaderWrapper\obj\Debug\JumploaderWrapper.pdb
